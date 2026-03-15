@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="StacksAndQueues.Backend/StacksAndQueues.Backend.csproj" Id="a5ec5bb8-5a38-48e7-b4ff-d2f9fc2ada25" />
+  <Project Path="StacksAndQueues.Frotend/StacksAndQueues.Frotend.csproj" Id="cb9f20b8-90a3-419a-806d-a8e390e63f19" />
+</Solution>
